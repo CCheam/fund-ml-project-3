@@ -1,0 +1,6 @@
+# Project 3 notebooks.
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.6
+xgboost>=3.0
+jupyter>=1.0
